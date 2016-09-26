@@ -58,7 +58,7 @@ void drawMyPainting()
 	drawLine(100, 401, 201, 500, 1.0f, 0.0f, 0.0f);
 	drawLine(100, 400, 201, 500, 1.0f, 0.0f, 0.0f);
 
-	//DoughnutShape
+	//Doughnut Shape
 	drawCircle(400, 450, 100, 1.0f, 0.0f, 0.0f);
 	for (int i = 0; i <= width; i++)
 	{
